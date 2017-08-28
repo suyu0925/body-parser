@@ -32,6 +32,7 @@ declare namespace bodyParser {
     interface OptionsUrlencoded extends Options {
         extended?: boolean;
         parameterLimit?: number;
+        arrayLimit?: number;
     }
 
     function json(options?: OptionsJson): RequestHandler;
