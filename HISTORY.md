@@ -6,6 +6,7 @@
     - deps: ms@2.0.0
   * deps: type-is@~1.6.15
     - deps: mime-types@~2.1.15
+  * export option arrayLimit for qs
 
 1.17.1 / 2017-03-06
 ===================
